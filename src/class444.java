@@ -1,0 +1,8 @@
+public class class444 extends class445 {
+	public class444(int var1) {
+		super(var1);
+	}
+
+	void vmethod8212(Buffer var1, int var2) {
+	}
+}
